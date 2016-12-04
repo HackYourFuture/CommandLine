@@ -72,3 +72,14 @@ Will process the escape sequence \n and convert that to a newline.
 
 `mkdir test && cd test` Makes the directory test and enters into that directory. && is used to execute multiple commands one after the other.
 
+
+# Devil is in the details
+
+For any program on UNIX-based systems, three files are automatically opened when the program starts execution. These files are stdin(Standard input), stdout (Standard Output) and stderr (Standard errors). stdin is usually the keyboard. Any program that interacts with users, expects that users will type something as an input. stdout and stderr are usually the screen/monitor. One can choose to redirect these to files. In UNIX based systems, everything is a file. Sockets are files. directories are files. You can see the type of file with `ls -l`. See the first letter of each line. If it is 'd', then it is a directory. If it is '-', then it is a regular file. 
+```
+$ls -l
+drwxr-xr-x  2 unmeshjoshi  staff   68 Dec  4 15:37 test-dir
+-rw-r--r--  1 unmeshjoshi  staff   12 Oct 16 12:57 test.txt
+```
+
+Also note that the extension of file doesn't matter in UNIX based systems. The content of the file decides the file format. E.g. In Windows OS, executable files are generally with .exe extension. In UNIX-based systems (Linux, MAC), it is not the case. People use extension of convenience. E.g. .out, .dmg and .sh
