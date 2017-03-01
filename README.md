@@ -5,8 +5,8 @@ This repository contains the teaching material and notes for the UNIX-based (bas
 
 ## Planning for current class
 This class is conducted mostly extamporanously typing and executing commands (live) in the class while explaining them.
-[Week 1 Reading](Lecture1.md)
-[Week 2 Reading](Lecture2.md)
+* [Week 1 Reading](Lecture-1.md)
+* [Week 2 Reading](Lecture-2.md)
 
 ## Learning goals for this module
 * To know the terminal/bash/command line for UNIX based systems.
