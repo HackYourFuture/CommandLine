@@ -4,7 +4,7 @@
 This repository contains the teaching material and notes for the UNIX-based (bash) command line.
 
 ## Planning for current class
-This class is conducted mostly extamporanously typing and executing commands (live) in the class while explaining them.
+This class is conducted mostly extemporaneously typing and executing commands (live) in the class while explaining them. Following links provide a good starting point for basic concepts and commands:
 * [Week 1 Reading](Lecture-1.md)
 * [Week 2 Reading](Lecture-2.md)
 
