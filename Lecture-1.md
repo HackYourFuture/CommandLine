@@ -19,7 +19,14 @@ Think of the filesystem as a tree starting with a special directory called the r
 My `home` directory in this case is `/users/timir` so when I type `cd` (with no arguments)  
 
 # Commands
-## Navigating the filesystem 
+
+General syntax for all Bash commands is
+```
+`command_name param1 param2 [OPTIONS]`
+In the above, square brackets denote the optional part of the command. The square brackets are not supposed to be typed.
+`param1` and `param2` are COMPULSORY parameters.
+```
+
 `ls` - show the contents of the directory. `ls -a` will show all hidden files. 
 
 `pwd` - print the Present Working Directory. What directory am I in? 
