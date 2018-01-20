@@ -73,6 +73,10 @@ Will process the escape sequence \n and convert that to a newline.
 `mkdir test && cd test` Makes the directory test and enters into that directory. && is used to execute multiple commands one after the other.
 
 
+`curl <Website URL>` This command will display the content of the URL on your terminal
+`curl -o file <Website URL>` This command will save the content of the URL into `file`
+`curl -I <Website URL>` This command will display the HTTP header of the website.
+
 # Devil is in the details
 
 For any program on UNIX-based systems, three files are automatically opened when the program starts execution. These files are stdin(Standard input), stdout (Standard Output) and stderr (Standard errors). stdin is usually the keyboard. Any program that interacts with users, expects that users will type something as an input. stdout and stderr are usually the screen/monitor. One can choose to redirect these to files. In UNIX based systems, everything is a file. Sockets are files. directories are files. You can see the type of file with `ls -l`. See the first letter of each line. If it is 'd', then it is a directory. If it is '-', then it is a regular file. 

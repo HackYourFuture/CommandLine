@@ -6,10 +6,10 @@ The command line (cli, shell) is the interface between you (the user) and the op
 # Filesystem 
 Think of the filesystem as a tree starting with a special directory called the root which is the top of the tree - this is referred to as `/`. Every other directory is a child of this directory. 
 ```
-        ______________ /_______
-       /               |       \
-      |                |        |
- something          users      apps
+                 ______ /_______
+                /       |       \
+               |        |        |
+              dev    users      apps
                   /    |  \
             timir   unmesh  gijs
             /
