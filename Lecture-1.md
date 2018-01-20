@@ -17,7 +17,7 @@ Think of the filesystem as a tree starting with a special directory called the r
         /
     python
 ```
-My `home` directory in this case is `/users/timir` so when I type `cd` (with no arguments)  
+My `home` directory in this case is `/users/unmesh` so when I type `cd` (with no arguments), I navigate to my home directory.
 
 # Commands
 
