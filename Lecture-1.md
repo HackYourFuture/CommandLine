@@ -40,7 +40,7 @@ The square brackets are not supposed to be typed.
 
 `head` - show the beginning of a file e.g. `head -3` shows the first 3 lines of the file
 
-`tail` - show the end of a file `tail -4 shows the last 4 lines of the file
+`tail` - show the end of a file `tail -4` shows the last 4 lines of the file
 
 `wc` - show the word count of a file (prints lines, words, characters)
 
