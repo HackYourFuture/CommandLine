@@ -34,7 +34,7 @@ The square brackets are not supposed to be typed.
 
 `cd` - change directory to the one specified. If no directory is specified this will take you to your home directory. Remember that `.` is the current directory and `..` is the parent directory. So `cd .` changes the directory to the current directory (does nothing!). 
 
-`cat` - print the contents of the file - this will print the the WHOLE file. If you want to stop printing after a full screen use the below command 
+`cat` - print the contents of the file - this will print the WHOLE file. If you want to stop printing after a full screen use the below command 
 
 `more` - show one screen full of the file (spacebar/Enter moves forward and q stops printing)
 
