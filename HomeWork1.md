@@ -1,7 +1,9 @@
 # Home Work #1
 
 ```
-1. Research how to create a hidden file and how to display it using ls command.
+Please type the commands for the following steps:
+
+1. Research how to create a hidden file and how to display it using ls command. 
 
 2. Research how to create multiple nested directories with one mkdir command.
 E.g. How would you create 'fun' directory along with all directories in the path below:
@@ -23,8 +25,9 @@ Output of "cat fun" is
 test
 another test
 
-How would you use echo command, so that output would be:
+5. How would you use echo command, so that output would be:
 testanother test
 
-HELLO
+After finishing the exercises, create a folder in your Github repository named Commandline. Add a new file within this folder and copy paste the commands (not the output!). Copy-paste the URL of the file on your Trello card.
+
  ```
