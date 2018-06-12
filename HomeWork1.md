@@ -26,4 +26,5 @@ another test
 How would you use echo command, so that output would be:
 testanother test
 
+HELLO
  ```
