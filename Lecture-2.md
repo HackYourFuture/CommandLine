@@ -1,3 +1,8 @@
+# Start the class with a game
+It is nice to start the game with the game described here:
+https://github.com/HackYourFuture/teaching_tips_tricks#cli---game-i-go-on-holiday-and-i-take-with-me
+
+
 # Redirections
 
 When working on command lines, it is useful to send output of a command to file or read input from a file or send output of one command to the next command.
