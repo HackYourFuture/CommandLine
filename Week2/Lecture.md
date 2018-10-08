@@ -10,18 +10,18 @@ When working on command lines, it is useful to send output of a command to file 
 ## Output redirection
 
 ```
-$echo "Hello"
+$ echo "Hello"
 Hello
 ```
 will display the string Hello on the terminal.
 
 ```
-$echo "Hello" > greetings.txt
+$ echo "Hello" > greetings.txt
 ```
 Will redirect the output of the echo command to the file "greetings.txt".
 
 ```
-$echo "Bye World!" >> greetings.txt
+$ echo "Bye World!" >> greetings.txt
 ```
 Will APPEND the output of the echo command to the file "greetings.txt"
 

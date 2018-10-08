@@ -1,0 +1,10 @@
+(Almost) everything is a file
+
+In a Unix operating system almost everything is
+a file. Unknown to us until we've already been 
+using these three (hidden) files from the very 
+beginning:
+
+standard-input (std-in) - connected to the keyboard
+standard-output (std-out) - connected to the screen
+standard-error (std-err) - connected to the screen

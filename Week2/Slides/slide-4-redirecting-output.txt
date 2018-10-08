@@ -1,0 +1,7 @@
+Redirecting output
+
+echo "Hello class"
+
+echo "Hello class" > greetings.txt
+
+echo "Bye class" >> greetings.txt

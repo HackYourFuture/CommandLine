@@ -1,0 +1,15 @@
+total 104
+-rw-rw-r--. 1 frank frank 54621  5 okt 18:01 conveyor-belt.jpg
+-rw-r--r--. 1 frank frank    72  7 okt 12:48 greetings.txt
+-rw-r--r--. 1 frank frank    12  7 okt 12:53 hello-class.txt
+-rw-r--r--. 1 frank frank     0  7 okt 13:06 ls-output
+-rw-r--r--. 1 frank frank    16  7 okt 13:02 numbers.txt
+-rw-r--r--. 1 frank frank    42  5 okt 18:08 slide-1-file-system-recap.txt
+-rw-r--r--. 1 frank frank   286  5 okt 18:08 slide-2-conveyor-belts.txt
+-rw-r--r--. 1 frank frank   523  5 okt 21:31 slide-3-convey-definition.txt
+-rw-r--r--. 1 frank frank   110  5 okt 21:32 slide-4-redirecting-output.txt
+-rw-r--r--. 1 frank frank    62  6 okt 17:22 slide-5-redirecting-input.txt
+-rw-r--r--. 1 frank frank   226  6 okt 17:22 slide-6-conveying-information-between-programs.txt
+-rw-r--r--. 1 frank frank   194  6 okt 17:17 slide-7-pipes.txt
+-rw-r--r--. 1 frank frank   342  6 okt 17:29 slide-8-everything-is-a-file.txt
+-rw-r--r--. 1 frank frank   114  6 okt 17:38 slide-9-the-awesome-command-tail.txt
