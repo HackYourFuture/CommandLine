@@ -5,8 +5,8 @@ This repository contains the teaching material and notes for the UNIX-based (bas
 
 ## Planning for current class
 This class is conducted mostly extemporaneously typing and executing commands (live) in the class while explaining them. Following links provide a good starting point for basic concepts and commands:
-* [Week 1 Reading](Lecture-1.md)
-* [Week 2 Reading](Lecture-2.md)
+* [Week 1 Reading](https://github.com/HackYourFuture/CommandLine/blob/master/Week1/Lecture.md)
+* [Week 2 Reading](https://github.com/HackYourFuture/CommandLine/blob/master/Week2/Lecture.md)
 
 ## Learning goals for this module
 * To know the terminal/bash/command line for UNIX based systems.
