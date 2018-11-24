@@ -1,0 +1,11 @@
+Command-line by example:
+
+File system manipulation and navigation.
+
+ls
+mkdir hackyourfuture
+cd hackyourfuture
+touch i-love-bash
+man ls
+ls -l -h
+echo 'hello world' > i-love-bash

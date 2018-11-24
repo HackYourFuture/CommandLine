@@ -1,0 +1,8 @@
+Pipes
+
+We can only convey information between programs
+through files, as we just saw.
+It's very useful but also a bit cumbersome.
+What if we could convey information between
+programs directly?
+

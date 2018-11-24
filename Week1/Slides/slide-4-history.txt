@@ -1,0 +1,8 @@
+History:
+
+Before graphical user interfaces entered the scene
+people interacted with computers only through the command-line.
+Computers simple couldn't handle 'graphics' and the 
+file browser as we currently know it was not invented yet.
+
+The Unix operating system is a good example of this.

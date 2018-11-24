@@ -1,0 +1,31 @@
+Merriam-Webster
+
+interface noun
+in·ter·face | \ ˈin-tər-ˌfās
+
+Definition of interface 
+
+(Entry 1 of 2)
+
+1 : a surface forming a common boundary of two bodies, spaces, or phases 
+  // an oil-water interface
+
+2 a : the place at which independent and often unrelated systems 
+      meet and act on or communicate with each other 
+    // the man-machine interface
+  b : the means by which interaction or communication is achieved 
+      at an interface
+
+
+(Entry 2 of 2)
+
+transitive verb
+
+1 : to connect by means of an interface 
+  // interface a machine with a computer
+2 : to serve as an interface for
+
+intransitive verb
+
+1 : to become interfaced
+2 : to interact or coordinate harmoniously

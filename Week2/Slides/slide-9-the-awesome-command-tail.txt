@@ -1,0 +1,8 @@
+The awesome command that is `tail`:
+
+ping google.com
+
+ping google.com > ping-output
+
+tail --follow < ping-output
+

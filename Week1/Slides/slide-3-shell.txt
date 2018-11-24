@@ -1,0 +1,9 @@
+The shell:
+
+Facilitates interaction and communication 
+between us (the user) and the operating system.
+
+There are many shells available but we will
+be using very popular one called *bash*.
+It is the default shell for almost every Linux
+distribution and Mac OS X.

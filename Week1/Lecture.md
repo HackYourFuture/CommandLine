@@ -28,21 +28,23 @@ The square brackets are not supposed to be typed.
 `param1` and `param2` are COMPULSORY parameters.
 ## Some commonly used commands
 
-`ls` - show the contents of the directory. `ls -a` will show all hidden files. 
+`ls` - show the contents of the directory. `ls -a` will show all hidden files. `ls -l` will show more files in long format (more details)
 
 `pwd` - print the Present Working Directory. What directory am I in? 
 
 `cd` - change directory to the one specified. If no directory is specified this will take you to your home directory. Remember that `.` is the current directory and `..` is the parent directory. So `cd .` changes the directory to the current directory (does nothing!). 
 
-`cat` - print the contents of the file - this will print the the WHOLE file. If you want to stop printing after a full screen use the below command 
+`echo` - prints the string on screen (on desktop/bash terminal). `echo -e "hello\n"` will interpret `\n` as newline.
 
-`more` - show one screen full of the file (spacebar/Enter moves forward and q stops printing)
+`cat` - print the contents of the file - this will print the WHOLE file. If you want to pause printing after a full screen use the below command.
+
+`less` - show one screen full of the file (spacebar/Enter moves forward and q stops printing)
 
 `head` - show the beginning of a file e.g. `head -3` shows the first 3 lines of the file
 
-`tail` - show the end of a file `tail -4 shows the last 4 lines of the file
+`tail` - show the end of a file `tail -4` shows the last 4 lines of the file
 
-`wc` - show the word count of a file (prints lines, words, characters)
+`wc` - show the word count of a file (prints number of lines, words and characters in the file)
 
 `CTRL-c` - stop what is happening on the command line 
 

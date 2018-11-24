@@ -1,0 +1,11 @@
+Conveying information between programs
+
+Conveying information from and to files
+can be done with <, >, and >>
+
+We can use those constructs to convey 
+information between programs.
+
+ls -l > ls-output
+
+grep "slide*" < ls-output
