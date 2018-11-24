@@ -55,6 +55,27 @@ $ cat numbers.txt | sort | uniq
 This will find out all the unique numbers from the file "numbers.txt". Note that, the file must contain numbers on separate lines.
 
 
+# For loop
+In bash, it is possible to write a loop
+that iterates over a range of numbers.
+```
+SYNTAX:
+for VAR in {START..END}; do COMMAND1 [;COMMAND2 [;COMMAND3]]; done
+```
+
+_for_,  _in_, _do_, _done_ are keywords.
+Curly brackets ('{' and '}')are the part of the syntax.
+VAR takes values from START to END with the step of 1.
+There must be at least one command after _do_.
+Square brackets ('[' and ']') denote that more commands are optional.
+To use VAR in command(s), '$' symbol must be used before it.
+```
+EXAMPLE:
+$ for i in {1..10}; do echo $i; done
+```
+Here, **i** is the loop variable. Any other character or a sequence of characters can be used instead of **i**.
+i takes the values 1,2,3, until 10. We are using a simple command `echo $i` to print these values.
+
 # Miscellaneous commands and options
 
 ```
