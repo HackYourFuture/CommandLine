@@ -44,6 +44,8 @@ The square brackets are not supposed to be typed.
 
 `tail` - show the end of a file `tail -4` shows the last 4 lines of the file
 
+`tail -f -100` - shows last 100 lines of a log file, while it's being updated. The output of the command will be automatically updated as well. This is the best way to watch logs.
+
 `wc` - show the word count of a file (prints number of lines, words and characters in the file)
 
 `CTRL-c` - stop what is happening on the command line 
