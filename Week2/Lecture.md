@@ -62,7 +62,7 @@ This will find out all the unique numbers from the file "numbers.txt". Note that
 ```
 $ cat numbers.txt | grep 3
 ```
-This command is the easiest way to find something in the file. It's useful for watching logs, in combination with `tail`
+This command is the easiest way to find something in the file. It's useful for watching logs, in combination with `tail`. The `grep` command is used to search text. It searches the given file for lines containing a match to the given strings or words. 
 
 # For loop
 In bash, it is possible to write a loop
