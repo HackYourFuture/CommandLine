@@ -15,5 +15,7 @@ This class is conducted mostly extemporaneously typing and executing commands (l
 * Learn output redirection, piping on the terminal.
 * Write basic shell scripts to ease the programming life.
 
+### Google Slides walkthrough - [LINK](https://docs.google.com/presentation/d/1rBCx99ZQANVFuYZftDEqaRb4Yy3M6u2j8r4jpni6Hj4/edit?usp=sharing)
+
 ---
 Credit goes to [HackYourFuture](https://github.com/HackYourFuture) which this is based upon.
